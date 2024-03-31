@@ -1,4 +1,4 @@
-QRCode.2Stable
+mail.dieuwkehupkes.nl
 
 Description:
 mail.dieuwkehupkes.nlis a stable and reliable Python library for generating QR codes. It provides an easy-to-use interface for generating QR codes with customizable parameters such as size, color, and error correction level. mail.dieuwkehupkes.nlis suitable for various applications where QR code generation is required, including but not limited to digital payment systems, event ticketing, and inventory management.
